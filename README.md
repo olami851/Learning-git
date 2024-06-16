@@ -1,1 +1,1 @@
-This reo was created to learn git from Amigocodes page on YouTube.
+This repo was used to learn git from the Amigoscodes page on YouTube.
